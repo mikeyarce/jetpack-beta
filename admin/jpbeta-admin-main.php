@@ -58,5 +58,5 @@ $testing_checklist = jpbeta_get_testing_list();
 <div class="card">
 <?php echo $testing_checklist; ?>
 
-<a title="Submit Your Feedback" class="feedback" href="http://jetpack.me/contact-support/"><?php _e('Submit Your Feedback', 'jpbeta'); ?></a>
+<a title="Submit Your Feedback" class="feedback" href="http://jetpack.me/contact-support/beta-group/"><?php _e('Submit Your Feedback', 'jpbeta'); ?></a>
 </div>
